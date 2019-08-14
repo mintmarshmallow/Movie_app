@@ -1,0 +1,13 @@
+.Movie{
+    display: flex;
+    width: 500px;
+    font-size: 14px
+
+}
+.Movie h1{
+    font-size: 20px
+}
+.Movie__Poster{
+    height: 50vh;
+
+}
